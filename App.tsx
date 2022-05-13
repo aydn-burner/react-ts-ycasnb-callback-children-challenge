@@ -22,7 +22,7 @@ export default function App() {
         <h3>Update Parent State Challenge</h3>
         <span>
           Parent text (I need to be updated from my child) should be updated
-          (Using Callback) when Child button below is clicked.
+          when Child button below is clicked.
           <br />
           <br />
           Feel free to use any string to update the parent's current string.
